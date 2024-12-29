@@ -1,5 +1,3 @@
-u
-
 # README
 
 ## Automating WhatsApp Messaging Using Selenium
@@ -163,3 +161,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Developed by Oğuzhan Kurtkan.
 
 For inquiries or support, feel free to reach out via email at oguzhankurtkan@gmail.com
+
+https://www.youtube.com/watch?v=j8hrai6KY3s
